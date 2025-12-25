@@ -7,7 +7,8 @@ The system provides an online shopping platform for customers and a powerful adm
 
 ## 📸 Dashboard Preview
 
-![Admin Dashboard](https://github.com/PrashantChavada24/Rajani_Shooping_Website-/blob/6a3326dfe2e558752eab268780ddbf73b3e4c708/Screenshot%20(42).png)
+![Admin Dashboard](https://github.com/PrashantChavada24/Rajani_Shooping_Website-/blob/41777e637ef91d1fb8c0e94478561478440551de/Screenshot%20(44).png)
+![Admin Dashboard](https://github.com/PrashantChavada24/Rajani_Shooping_Website-/blob/41777e637ef91d1fb8c0e94478561478440551de/Screenshot%20(46).png)
 
 > *Admin panel showing product management with category filter, image preview, edit & delete options.*
 
