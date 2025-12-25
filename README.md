@@ -5,7 +5,7 @@ The system provides an online shopping platform for customers and a powerful adm
 
 ---
 
-## 📸 Admin Dashboard Preview
+## 📸 Dashboard Preview
 
 ![Admin Dashboard](https://github.com/PrashantChavada24/Rajani_Shooping_Website-/blob/6a3326dfe2e558752eab268780ddbf73b3e4c708/Screenshot%20(42).png)
 
